@@ -1,0 +1,83 @@
+
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Roboto';
+    
+}
+h1{
+    font-weight: bold;
+}
+
+.logo{
+    width:100px;
+}
+.navbar-nav{
+    font-size:12px;
+  
+}
+a:hover{
+  color: red;
+}
+hr {
+   
+    margin-top: 0px;
+}
+.left-bar{
+
+margin-top:80px;
+padding-left: 100px;
+word-wrap: break-word;
+}
+.course{
+    background-image: linear-gradient(to bottom right, #fff, #0096cc, rgb(89, 255, 211));
+  
+}
+.course h3{
+    padding-left: 100px;
+}
+.course h6{
+    padding-left: 100px;
+}
+h3,h6{
+    padding-left: 100px; 
+    font-weight: bold;
+}
+.read-card{
+    color:red;
+}
+.card{
+    box-shadow: 1px 5px 5px rgba(0,0,0,.125);
+}
+.right-img{
+width: 82%;
+border-radius: 10px;
+margin-top: 76px;
+}
+.left-card{
+    padding-left: 100px;
+}
+.card-button{
+    padding-bottom:10px;
+    justify-content: space-between;
+}
+.card-img{
+    width: 100%;
+    padding: 20px;
+    height: 100%;
+}
+.left-img{
+    width: 98%;
+    border-radius: 10px;
+    margin-top: -68px;
+    height: 300px;
+}
+.mid-card{
+padding-left: 57px;
+}
+.img-card{
+    height:340px;
+}
+.lower-img{
+    height:232px; 
+}
